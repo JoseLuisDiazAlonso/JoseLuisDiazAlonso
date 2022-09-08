@@ -7,3 +7,5 @@
 ##Mis Repositorios
 
 [Mi Repositorio de Prueba](https://github.com/JoseLuisDiazAlonso/EjemploRepositorio)
+
+[!Hua's github stats(https://github-readme-stats.vercel.app/api?username=JoseLuisDiazAlonso&show_icons=true&theme=dark)](https://github.com/JoseLuisDiazAlonso/github-readme-stats)
