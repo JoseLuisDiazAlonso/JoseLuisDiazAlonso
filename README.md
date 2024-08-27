@@ -1,10 +1,10 @@
 # Hola, mi nombre es José Luis Díaz Alonso
 
-![Banner](https://github.com/JoseLuisDiazAlonso/JoseLuisDiazAlonso/blob/main/imagen_gitHub.jpg?raw=true)
+Soy un profesional con más de doce años de experiencia en la industria alimentaria, donde he desempeñado roles de alta responsabilidad en el área de calidad. Sin embargo, mi pasión por la tecnología me llevó a replantear mi carrera hace tres años, decidiendo dar un giro hacia el desarrollo de software.
 
-Licenciado en Ciencia y Tecnología de los alimentos que tras doce años como Responsable de Calidad en la industria alimentaria decidió dar un giro a su vida profesional y dedicarse profesionalmente a la programación. Un mundo que siempre me ha llamado la atención y del que
-finalmente decidí dar el paso para adentrarme en el. Mi primer paso fué estudiar un master de 1000 horas para orientarme a un perfil full-stack. En el estudié Java y desarrollo web (HTML,CSS y JavaScript). Actualmente también me estoy formando en el desarrollo en iOS y Android en un nuevo master de 800 horas.
+Desde entonces, he estado inmerso en un proceso de formación intensiva tanto en Frontend como en Backend, lo que me ha permitido evolucionar hacia un perfil de desarrollador Full Stack. He completado un máster de 1000 horas en desarrollo Full Stack, donde adquirí habilidades sólidas en las tecnologías más demandadas del mercado.
 
+Actualmente, estoy profundizando mis conocimientos en el desarrollo de aplicaciones móviles, cursando un máster de 800 horas especializado en el desarrollo de aplicaciones para Android e iOS. Mi objetivo es combinar mi experiencia en gestión de calidad con mis nuevas habilidades tecnológicas para crear soluciones innovadoras y de alta calidad que resuelvan problemas del mundo real.
 ## Tecnologías y Lenguajes de Programación.
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
