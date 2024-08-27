@@ -10,6 +10,7 @@ Actualmente, estoy profundizando mis conocimientos en el desarrollo de aplicacio
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-39E09B?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]() [![REACT](https://img.shields.io/badge/REACT-0077B5?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1877F2?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)]()
 
 
 
