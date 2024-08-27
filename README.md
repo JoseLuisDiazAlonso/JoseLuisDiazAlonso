@@ -23,17 +23,19 @@ Actualmente, estoy profundizando mis conocimientos en el desarrollo de aplicacio
 - **GitHub**: Plataforma de hospedaje para el control de versiones y colaboración en proyectos.
 - **Android**: Plataforma para el desarrollo de aplicaciones móviles en dispositivos Android.
 
-## Encuentrame en
-
-- [LinkedIn](https://www.linkedin.com/in/jose-luis-díaz-alonso-53aa5339)
-- [Envía un correo a mi email](mailto:joseluisdiaz_alonso@hotmail.com)
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-39E09B?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]() [![REACT](https://img.shields.io/badge/REACT-0077B5?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1877F2?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
+
+
+## Encuentrame en
+
+- [LinkedIn](https://www.linkedin.com/in/jose-luis-díaz-alonso-53aa5339)
+- [Envía un correo a mi email](mailto:joseluisdiaz_alonso@hotmail.com)
+
 
 
 
