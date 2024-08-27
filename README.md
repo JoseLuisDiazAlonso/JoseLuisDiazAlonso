@@ -1,6 +1,6 @@
 # Hola, mi nombre es José Luis Díaz Alonso
 
-![Banner](https://github.com/JoseLuisDiazAlonso/README.md/raw/main/"C:\Users\josel\OneDrive\Escritorio\imagen_gitHub.jpg")
+![Banner](https://github.com/JoseLuisDiazAlonso/JoseLuisDiazAlonso/blob/main/imagen_gitHub.jpg?raw=true)
 
 Licenciado en Ciencia y Tecnología de los alimentos que tras doce años como Responsable de Calidad en la industria alimentaria decidió dar un giro a su vida profesional y dedicarse profesionalmente a la programación. Un mundo que siempre me ha llamado la atención y del que
 finalmente decidí dar el paso para adentrarme en el. Mi primer paso fué estudiar un master de 1000 horas para orientarme a un perfil full-stack. En el estudié Java y desarrollo web (HTML,CSS y JavaScript). Actualmente también me estoy formando en el desarrollo en iOS y Android en un nuevo master de 800 horas.
