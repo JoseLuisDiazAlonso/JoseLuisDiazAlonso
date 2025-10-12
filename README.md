@@ -1,5 +1,5 @@
 # Hola, mi nombre es José Luis Díaz Alonso
-#DESARROLLO DE APLICACIONES WEB Y DESARROLLO WEB
+# DESARROLLO DE APLICACIONES WEB Y DESARROLLO WEB
 
 Soy un profesional con más de doce años de experiencia en la industria alimentaria, donde he desempeñado roles de alta responsabilidad en el área de calidad. Sin embargo, mi pasión por la tecnología me llevó a replantear mi carrera hace tres años, decidiendo dar un giro hacia el desarrollo de software.
 
