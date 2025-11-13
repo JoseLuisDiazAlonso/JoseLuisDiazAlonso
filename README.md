@@ -1,11 +1,11 @@
 # Hola, mi nombre es José Luis Díaz Alonso
 # DESARROLLO DE APLICACIONES WEB Y DESARROLLO WEB
 
-Soy un profesional con más de doce años de experiencia en la industria alimentaria, donde he desempeñado roles de alta responsabilidad en el área de calidad. Sin embargo, mi pasión por la tecnología me llevó a replantear mi carrera hace tres años, decidiendo dar un giro hacia el desarrollo de software.
+Apasionado del desarrollo web y en constante evolución profesional. Con más de 12 años de experiencia previa en entornos exigentes, he desarrollado una forma de trabajar organizada, analítica y orientada a resultados.
 
-Desde entonces, he estado inmerso en un proceso de formación intensiva tanto en Frontend como en Backend, lo que me ha permitido evolucionar hacia un perfil de desarrollador Full Stack. He completado un máster de 1000 horas en desarrollo Full Stack, donde adquirí habilidades sólidas en las tecnologías más demandadas del mercado.
+Desde 2022 he dado un giro profesional hacia la programación, creando proyectos personales y freelance —algunos entregados a clientes, incluida la empresa en la que trabajo actualmente— y aplicando soluciones adaptadas a necesidades reales.
 
-Actualmente, estoy profundizando mis conocimientos en el desarrollo de aplicaciones móviles, cursando un máster de 800 horas especializado en el desarrollo de aplicaciones para Android e iOS. Mi objetivo es combinar mi experiencia en gestión de calidad con mis nuevas habilidades tecnológicas para crear soluciones innovadoras y de alta calidad que resuelvan problemas del mundo real.
+Mi objetivo es aportar valor inmediato en el desarrollo web, uniendo creatividad, eficiencia y resolución de problemas para ofrecer soluciones prácticas y efectivas.
 
 ## 🛠 Tecnologías y Herramientas
 
